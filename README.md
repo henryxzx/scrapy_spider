@@ -1,2 +1,2 @@
-# jobbole_spider
-用Scrapy爬取jobbole的文章
+# spider
+用Scrapy爬取jobbole的文章和3dm游戏社区的游戏
